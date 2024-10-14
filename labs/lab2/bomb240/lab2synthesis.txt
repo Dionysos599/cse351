@@ -1,0 +1,23 @@
+*****************************
+* Lab 2 Synthesis Questions *
+*****************************
+Name(s): Yinuo Yang, Hinyeung Lam 
+NetID(s): yinuoy, hlam3
+
+
+-----------------------------------------------------------
+1) &value: 12 bytes 
+   &array: 16 bytes
+-----------------------------------------------------------
+2) Init:   <fillArray+40>
+   Update: <fillArray+146>
+-----------------------------------------------------------
+3) String address: 0x4020a2
+   Part of memory: static data section
+   Assembly instruction address: <part_2+8>
+-----------------------------------------------------------
+4) Strategy + example:
+-----------------------------------------------------------
+5) Difficulty + why (past experience):
+-----------------------------------------------------------
+
